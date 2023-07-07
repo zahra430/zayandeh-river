@@ -1,0 +1,20 @@
+body {
+  margin: 0 auto;
+}
+img {
+  display: inline;
+}
+.row {
+  max-width: 100;
+}
+.page-wrapper {
+  text-align: center;
+  margin-top: 100px;
+}
+.border {
+  border: 0.5px gray solid;
+}
+.zayande-video {
+  display: block;
+  margin: 0 auto;
+}
