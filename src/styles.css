@@ -1,18 +1,27 @@
 body {
-  margin: 0 auto;
+  margin: 0;
 }
 img {
   display: inline;
+  padding: 10px 0px;
+  
 }
 .row {
   max-width: 100;
 }
 .page-wrapper {
   text-align: center;
-  margin-top: 100px;
 }
 .border {
   border: 0.5px gray solid;
+  border-radius: 10px;
+  margin: 10px 20px;
+}
+.thisis-title {
+  margin: 0;
+  font-size: 12px;
+  text-align: right;
+  padding: 0px 20px;
 }
 .zayande-video {
   display: block;
