@@ -3,8 +3,8 @@ body {
 }
 img {
   display: inline;
-  padding: 10px 0px;
-  
+  margin: 0;
+  padding: 25px 0px;
 }
 .row {
   max-width: 100;
@@ -19,9 +19,17 @@ img {
 }
 .thisis-title {
   margin: 0;
-  font-size: 12px;
+  font-size: 10px;
   text-align: right;
-  padding: 0px 20px;
+  padding: 20px 0px;
+}
+.case-study {
+  font-size: 10px;
+}
+
+.name {
+  text-align: center;
+  font-size: 8px;
 }
 .zayande-video {
   display: block;
